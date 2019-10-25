@@ -1,0 +1,18 @@
+.imageDiv{
+    max-width: 250px;
+    max-height: 250px;
+}
+.imagetag {
+    width: auto;
+    height: 100%;
+}
+#mainCompDiv {
+    margin: 10px;
+}
+.TextAlignCenter {
+    text-align: center;
+}
+.titleContent {
+    margin-bottom: 10px;
+    color: white;
+}

@@ -1,0 +1,36 @@
+.App{
+  margin: 0px;
+  background-image: url('./image/bg1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  background-attachment: fixed;
+  width: auto;
+  height: auto;
+}
+.TextAlignCenter {
+  text-align: center
+}
+.imageComponent {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: space-around;
+}
+.searchDiv input {
+  margin: 10px;
+}
+.inputSearch {
+  background: none;
+  border: none
+}
+.inputSearch:focus {
+  outline: none
+}
+.searchInputDiv {
+  border-bottom: 1px solid black;
+}
+.searchDiv {
+  display: flex;
+  justify-content: center;
+}
